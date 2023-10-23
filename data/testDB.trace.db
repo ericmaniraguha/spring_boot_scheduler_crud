@@ -67,3 +67,294 @@ insert into employee values (1,'Python', 'Kigali - Rwanda')
 
 
 SELECT * FROM employee [42000-214]
+2023-10-23 11:40:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:40:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:41:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:42:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:43:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:44:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:45:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:46:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:46:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:46:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:46:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:46:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:46:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:46:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
+2023-10-23 11:46:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update Employee e set name = 'JPA' [*]wjhere e.id = ?"; SQL statement:
+update Employee e set name = 'JPA' wjhere e.id = ? [42000-214]
