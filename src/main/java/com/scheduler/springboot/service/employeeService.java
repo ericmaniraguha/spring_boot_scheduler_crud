@@ -20,12 +20,17 @@ public class EmployeeService {
 		
 		System.out.println("Scheduler running.....");
 //		insert data in the databases
-		Employee employee = new Employee();
-	    employee.setId(4);
-		employee.setName("C++");
-	    employee.setCity("Kigali");
-	
-		employeeRepo.save(employee);
+//		Employee employee = new Employee();
+//		employee.setId(2);
+//		employee.setName("Spring");
+//		employee.setCity("Rubavu");
+//		
+//		employeeRepo.save(employee);
 		
+//		Read method
+		List<Employee> employee = employeeRepo.findAll();
+		for(Employee e: employee) {
+			System.out.println(e);
+		}
 	}
 }
