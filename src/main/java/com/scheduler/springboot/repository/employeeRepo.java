@@ -13,10 +13,14 @@ import jakarta.transaction.Transactional;
 @Repository
 public interface EmployeeRepo extends JpaRepository<Employee, Integer>{
 	
+//	3. Update operation
+//	======================================================
 	@Modifying
 	@Transactional
 	@Query(value = "update Employee e set e.name = 'JPA' where e.id = :id", nativeQuery = true)
 	
 	void updateEmployee(int id);
+	
+
 
 }

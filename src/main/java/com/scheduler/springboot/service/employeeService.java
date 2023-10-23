@@ -19,7 +19,8 @@ public class EmployeeService {
 	public void CrudScheduler() {
 		
 		System.out.println("Scheduler running.....");
-//		insert data in the databases
+//		1. insert data in the databases
+//		======================================================
 //		Employee employee = new Employee();
 //		employee.setId(2);
 //		employee.setName("Spring");
@@ -27,12 +28,19 @@ public class EmployeeService {
 //		
 //		employeeRepo.save(employee);
 		
-////		Read method
+////	2. Read method
+//		=============================================================
 //		List<Employee> employee = employeeRepo.findAll();
 //		for(Employee e: employee) {
 //			System.out.println(e);
-//		}
+////		}
+
+//		3. Update operation	
+//		======================================
+//		employeeRepo.updateEmployee(2);
 		
-		employeeRepo.updateEmployee(2);
+//		4. Delete all Data 
+//		====================================================
+		employeeRepo.deleteAll();
 	}
 }
