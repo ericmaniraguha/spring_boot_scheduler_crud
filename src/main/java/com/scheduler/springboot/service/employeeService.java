@@ -27,10 +27,12 @@ public class EmployeeService {
 //		
 //		employeeRepo.save(employee);
 		
-//		Read method
-		List<Employee> employee = employeeRepo.findAll();
-		for(Employee e: employee) {
-			System.out.println(e);
-		}
+////		Read method
+//		List<Employee> employee = employeeRepo.findAll();
+//		for(Employee e: employee) {
+//			System.out.println(e);
+//		}
+		
+		employeeRepo.updateEmployee(2);
 	}
 }
