@@ -62,3 +62,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 * Spring Framework
 * H2 Database
+![image](https://github.com/ericmaniraguha/spring_boot_scheduler_crud/assets/44385819/7efcd2a2-c692-4cdb-b980-658b2b099ab9)
+![image](https://github.com/ericmaniraguha/spring_boot_scheduler_crud/assets/44385819/58b4dc62-7ece-4d4b-adeb-17653b9e14f5)
+
